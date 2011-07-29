@@ -245,6 +245,7 @@
     <Compile Include="TargetableUnit.cs" />
     <Compile Include="TeslaInstantKills.cs" />
     <Compile Include="TraitsInterfaces.cs" />
+    <Compile Include="TransformOnPassenger.cs" />
     <Compile Include="Missions\DefaultShellmapScript.cs" />
     <Compile Include="Turreted.cs" />
     <Compile Include="Buildings\Wall.cs" />
